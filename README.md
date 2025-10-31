@@ -1,5 +1,3 @@
-# Spotify-Hit-Predictor
-
 # Spotify Hit Predictor
 Description
 This project aims to predict whether a song will be a "hit" on Spotify based on its audio features and artist popularity.
